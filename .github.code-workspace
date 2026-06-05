@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../ono-tebe-nado-fd/.github"
+		},
+		{
+			"path": "../ono-tebe-nado-fd/fonts"
+		},
+		{
+			"path": "../ono-tebe-nado-fd/images"
+		},
+		{
+			"path": "../ono-tebe-nado-fd/styles"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "styles"
+	}
+}
